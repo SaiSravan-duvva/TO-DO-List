@@ -1,4 +1,4 @@
-# VaultOfCodes_Interenship
+# VaultOfCodes_Interenship (Mini Project 1)
 # To-Do List Application
 
 A simple Python program for managing your to-do list with features to add, remove, and display tasks.
